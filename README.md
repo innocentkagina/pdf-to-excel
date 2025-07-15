@@ -25,6 +25,15 @@ This project is a simple and effective tool that converts tables from PDF files 
    ```bash
    pip3 install -r requirements.txt
    ```
+   ## Windows
+    
+   Install [Java](https://www.java.com/en/download/)
+   
+    ## Linux
+    
+   Install [JRE](https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-on-ubuntu-22-04)
+   
+   
 3. Run Script
    ```bash
    python3 main.py
