@@ -2,4 +2,9 @@ pdfplumber
 pandas
 PyPDF2
 openpyxl
-jpype
+jpype1
+sqlalchemy
+psycopg2-binary
+pg8000
+python-dotenv
+tabula
