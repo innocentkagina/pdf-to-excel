@@ -52,3 +52,4 @@ def transform_excels(input_dir="converted", output_dir="transformed"):
 
         except Exception as e:
             print(f"Failed processing {excel_file.name}: {str(e)}")
+transform_excels()
